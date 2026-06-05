@@ -1,4 +1,4 @@
-# NPCBotInventory
+# NPCBotInventory (NO LUA SERVER)
 
 > Addon para **World of Warcraft 3.3.5 (WotLK)** que permite inspeccionar el inventario equipado de tus NPCBots con un paperdoll completo, estadísticas calculadas localmente y detección automática de especialización.
 
